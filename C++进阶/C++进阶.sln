@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06继承", "06继承\06继�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07多态", "07多态\07多态.vcxproj", "{31117A0C-6900-490C-AD5E-8D9CA6B1FEF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08文件操作", "08文件操作\08文件操作.vcxproj", "{CACB6305-5657-42C2-8156-72E9D64C96C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{31117A0C-6900-490C-AD5E-8D9CA6B1FEF1}.Release|x64.Build.0 = Release|x64
 		{31117A0C-6900-490C-AD5E-8D9CA6B1FEF1}.Release|x86.ActiveCfg = Release|Win32
 		{31117A0C-6900-490C-AD5E-8D9CA6B1FEF1}.Release|x86.Build.0 = Release|Win32
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Debug|x64.ActiveCfg = Debug|x64
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Debug|x64.Build.0 = Debug|x64
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Debug|x86.Build.0 = Debug|Win32
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Release|x64.ActiveCfg = Release|x64
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Release|x64.Build.0 = Release|x64
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Release|x86.ActiveCfg = Release|Win32
+		{CACB6305-5657-42C2-8156-72E9D64C96C4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
