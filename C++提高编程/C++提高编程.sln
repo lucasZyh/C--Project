@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07list容器", "07list容�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08set-map容器", "08set-map容器\08set-map容器.vcxproj", "{D9436EC1-0B54-4B87-9F20-D97C86200C37}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09函数对象", "09函数对象\09函数对象.vcxproj", "{F878E435-C16D-4682-A615-78A5BD01E08D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{D9436EC1-0B54-4B87-9F20-D97C86200C37}.Release|x64.Build.0 = Release|x64
 		{D9436EC1-0B54-4B87-9F20-D97C86200C37}.Release|x86.ActiveCfg = Release|Win32
 		{D9436EC1-0B54-4B87-9F20-D97C86200C37}.Release|x86.Build.0 = Release|Win32
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Debug|x64.ActiveCfg = Debug|x64
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Debug|x64.Build.0 = Debug|x64
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Debug|x86.Build.0 = Debug|Win32
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x64.ActiveCfg = Release|x64
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x64.Build.0 = Release|x64
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x86.ActiveCfg = Release|Win32
+		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
