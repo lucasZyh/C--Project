@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08set-map容器", "08set-ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09函数对象", "09函数对象\09函数对象.vcxproj", "{F878E435-C16D-4682-A615-78A5BD01E08D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10常用算法", "10常用算法\10常用算法.vcxproj", "{98B45CAC-5812-4224-A41A-F2CA302E3A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x64.Build.0 = Release|x64
 		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x86.ActiveCfg = Release|Win32
 		{F878E435-C16D-4682-A615-78A5BD01E08D}.Release|x86.Build.0 = Release|Win32
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Debug|x64.ActiveCfg = Debug|x64
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Debug|x64.Build.0 = Debug|x64
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Debug|x86.Build.0 = Debug|Win32
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Release|x64.ActiveCfg = Release|x64
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Release|x64.Build.0 = Release|x64
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Release|x86.ActiveCfg = Release|Win32
+		{98B45CAC-5812-4224-A41A-F2CA302E3A0A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
